@@ -16,6 +16,7 @@ gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
+gem 'ckeditor', github: 'galetahub/ckeditor'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
